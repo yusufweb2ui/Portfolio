@@ -2011,6 +2011,9 @@ section,
   .portfolio .entry-overlay {
     padding: 20px;
   }
+  .navbar-nav{
+    display: none !important;
+  }
 }
 
 /*--------------------------------------------------------------
