@@ -1829,7 +1829,7 @@ section,
   border-radius: 16px;
   overflow: hidden;
   background: var(--surface-color);
-  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4);
 }
 
 .portfolio .portfolio-entry .entry-image {
@@ -1849,7 +1849,7 @@ section,
 .portfolio .portfolio-entry .entry-image .entry-overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(180deg, transparent 0%, rgba(0, 0, 0, 0.8) 100%);
+  background: rgb(0 0 0 / 75%);
   display: flex;
   align-items: flex-end;
   padding: 30px;
