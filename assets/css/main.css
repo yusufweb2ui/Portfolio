@@ -3172,3 +3172,9 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+
+
+ul.navbar-nav li{
+  padding-left: 15px;
+}
